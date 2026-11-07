@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/cmake_install.cmake",
+		"/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/glfw-build/cmake_install.cmake",
+		"/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/glfw-build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

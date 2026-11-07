@@ -1,0 +1,8 @@
+Inter — https://rsms.me/inter/
+Copyright (c) The Inter Project Authors.
+
+Esta fuente se distribuye bajo la SIL Open Font License, Version 1.1.
+Texto completo de la licencia: https://openfontlicense.org
+
+Se permite usarla, incluirla y redistribuirla con software (incluso comercial),
+siempre que se conserve este aviso de copyright y licencia.

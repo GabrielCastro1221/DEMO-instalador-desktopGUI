@@ -1,0 +1,9 @@
+/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/CMakeFiles/installer.dir
+/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/CMakeFiles/edit_cache.dir
+/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/CMakeFiles/rebuild_cache.dir
+/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/glfw-build/CMakeFiles/edit_cache.dir
+/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/glfw-build/CMakeFiles/rebuild_cache.dir
+/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/glfw-build/src/CMakeFiles/glfw.dir
+/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/glfw-build/src/CMakeFiles/update_mappings.dir
+/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/glfw-build/src/CMakeFiles/edit_cache.dir
+/home/deathraven/VSCodeProjects/Nexora/desktop_app/Nexora-POS-Desktop/installer/build/glfw-build/src/CMakeFiles/rebuild_cache.dir
